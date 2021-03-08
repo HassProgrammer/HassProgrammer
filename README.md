@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Md Ahshanul Alam Khan aka Hassprogrammer
+# 👋 Hi there, I'm Md Ahshanul Alam Khan - aka Hassprogrammer
 
 ![GitHub followers](https://img.shields.io/github/followers/HassProgrammer?label=FOLLOW&logo=github&style=for-the-badge)
 
@@ -42,7 +42,7 @@
 ### ✉️ Find me on:
 
 <!--Facebook-->
-[<img align="left" alt="hass | Facebook" width="35px" src="https://img.icons8.com/fluent/45/000000/instagram-new.png" />][facebook]
+[<img align="left" alt="hass | Facebook" width="35px" src="https://img.icons8.com/fluent/45/000000/facebook-new.png" />][facebook]
 
 <br />
 <br />
@@ -50,7 +50,6 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 
 ---
 
