@@ -62,14 +62,15 @@
 
 </details>
 
+---
+
 <details>
   <summary>
     :zap: GitHub Stats
   </summary>
-  <img align="left" alt="HassProgrammer's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HassProgrammer&show_icons=true&hide_border=true&theme="" />
+  <img align="left" alt="HassProgrammer's github stats" src="https://github-readme-stats.vercel.app/api?username=HassProgrammer&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:100%;"/>
 
 </details>
-
 
 
 
